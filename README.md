@@ -1,4 +1,5 @@
 # CMPE258_HW3
+It's assumed that the user can utilize the libaries imported within each file. For specific install instructions refer to each individual library.
 ## assignment3_q1.py - this answers the first question. 
 This creates a fully connected neural network, trains it, and then evaluates it. 
 The data is randomly created using the sklearn library and is split within
